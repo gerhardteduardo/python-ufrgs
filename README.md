@@ -1,14 +1,22 @@
-# README
- python.exercises.ufrgs
+# 📌 Exercícios de Introdução à Programação – UFRGS
+## 🛠️ Praticando Python no estilo "Competitive Programming / Algorithmic Problem Solving"
 
-## [PT-BR]
- O objetivo deste repositório é armazenar todos os exercícios que realizei 
- na disciplina de Introdução à Programação na faculdade (UFRGS), utilizando Python.
- Inicialmente, busquei criar os códigos mais simples possíveis, 
- e posteriormente fui aprimorando-os.
+Este repositório contém os exercícios que realizei na disciplina de Introdução à Programação, durante o segundo semestre do curso de Engenharia Física na Universidade Federal do Rio Grande do Sul (UFRGS), em 2023.
 
-## [EN]
- The purpose of this repository is to store all the exercises I have completed 
- in the Introduction to Programming course at university (UFRGS), using Python. 
- Initially, I aimed to create the simplest possible codes, 
- and then I progressively refined them.
+Os exercícios foram desenvolvidos utilizando Python, inicialmente com soluções simples e, posteriormente, aprimorados para seguir boas práticas de programação e eficiência algorítmica.
+
+
+## 🏆 Objetivo
+
+➡️ Compartilhar minha evolução na programação em Python  
+➡️ Explorar diferentes abordagens para os exercícios
+
+
+## 🤝 Contribuições & Feedback
+
+Sugestões e feedbacks são sempre bem-vindos! Caso tenha alguma ideia de melhoria ou queira discutir alguma solução, sinta-se à vontade para entrar em contato ou abrir uma issue neste repositório.
+
+
+## 🌟 Agradecimento
+
+Obrigado por conferir este projeto! Espero que ele seja útil como referência ou inspiração. 😊
